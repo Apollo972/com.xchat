@@ -49,3 +49,9 @@
 ![wechat](https://github.com/Xposed-Modules-Repo/com.xchat/blob/main/res/drawable/paymentCodeWechat.png)
 ![ali](https://github.com/Xposed-Modules-Repo/com.xchat/blob/main/res/drawable/paymentCodeAli.png)
 
+## 🙏感谢老板赏茶
+| 老板昵称          | 捐赠金额  | 日期         |
+|------------------|------------|--------------|
+| @**博       | ￥6.66       | 2025-01-05   |
+| @**涛       | ￥13      | 2025-01-05   |
+
