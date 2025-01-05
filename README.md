@@ -6,7 +6,7 @@
 [![GitHub Release Date](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.xchat)](https://github.com/Xposed-Modules-Repo/com.xchat/releases)
 [![Telegram Group](https://img.shields.io/badge/Telegram-Group-blue.svg?logo=telegram)](https://t.me/+iQDVYJRqfkY4YzRl)
 
-<p>仰天大笑出门去，我辈岂是蓬蒿人。</p>
+<p>仰天大笑出门去，我辈岂是蓬蒿人。  ——李白</p>
 </div>
 
 
