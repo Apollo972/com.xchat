@@ -52,7 +52,8 @@
 5. 凡以任何方式直接、间接使用APP者，视为自愿接受本声明的约束。
 6. 本APP如无意中侵犯了某个媒体或个人的知识产权，请来信或来电告之，作者将立即删除。
 
-## 🙏请作者喝杯茶 不想在主页展示捐赠记录的老板有劳备注一下（无备注默认接受主页展示）感谢！
+## 🙏请作者喝杯茶 
+不想在主页展示捐赠记录的老板有劳备注一下（无备注默认接受主页展示）感谢！
 ![wechat](https://github.com/Xposed-Modules-Repo/com.xchat/blob/main/res/drawable/paymentCodeWechat.png)
 ![ali](https://github.com/Xposed-Modules-Repo/com.xchat/blob/main/res/drawable/paymentCodeAli.png)
 
