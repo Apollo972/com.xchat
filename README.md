@@ -11,7 +11,7 @@
 
 
 ## 前言:
-  <p>作者上班族，对模块开发只是有兴趣，本来想着通过参与已有模块的共建来消磨时间，奈何被拒之门外。因此只能独自扛起大旗，甚是耗时...</p>
+  <p>作者上班族，对模块开发只是有兴趣，本来想着通过参与已有模块的共建来消磨时间，奈何被拒之门外。因此只能独自扛起大旗，甚是心酸...</p>
   <p>目前只有禁止撤回功能，其他功能可以根据反馈逐步增加，切莫着急，还望理解。</p>
   <p>被采纳的需求将会列到下面的更新计划中。</p>
   <p>若插件存在问题，欢迎Telegram积极反馈，或在此仓库创建信息尽可能丰富的issue。在此感谢。</p>
@@ -46,8 +46,6 @@
 6. 本APP如无意中侵犯了某个媒体或个人的知识产权，请来信或来电告之，作者将立即删除。
 
 ## 🙏请作者喝杯茶
-<div>
-  <img width="250" height="200" src="https://github.com/Xposed-Modules-Repo/com.xchat/blob/main/res/drawable/paymentCodeWechat.png"/>
-  <img width="250" height="200" src="https://github.com/Xposed-Modules-Repo/com.xchat/blob/main/res/drawable/paymentCodeAli.png"/>
-</div>
+![wechat](https://github.com/Xposed-Modules-Repo/com.xchat/blob/main/res/drawable/paymentCodeWechat.png)
+![ali](https://github.com/Xposed-Modules-Repo/com.xchat/blob/main/res/drawable/paymentCodeAli.png)
 
