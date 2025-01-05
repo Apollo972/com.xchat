@@ -11,9 +11,9 @@
 
 
 ## 前言:
-  <p>作者属于第一次针对微信开发插件，代码环境极其不熟悉，处于到处踩坑阶段。</p>
-  <p>目前只有防撤回功能，其他功能可以根据反馈逐步增加，切莫着急，还望理解。被采纳的需求将会列到下面的更新计划中。</p>
-  <p>目前由于初步阶段，若存在问题，欢迎Telegram积极反馈，在此感谢。</p>
+  <p>目前只有禁止撤回功能，其他功能可以根据反馈逐步增加，切莫着急，还望理解。</p>
+  <p>被采纳的需求将会列到下面的更新计划中。</p>
+  <p>若存插件在问题，欢迎Telegram积极反馈，在此感谢。</p>
   
 ## 适配版本
 - [x] 8.0.55
@@ -25,7 +25,8 @@
   
 ## 更新计划
 - [x] 防撤回
-- [ ] 朋友圈防撤回
+- [ ] 朋友圈禁止撤回
+- [ ] 朋友圈集赞、评论
 - [ ] 隐藏好友
 - [ ] 骰子指定
       
@@ -38,4 +39,8 @@
 6. 本APP如无意中侵犯了某个媒体或个人的知识产权，请来信或来电告之，作者将立即删除。
 
 ## 请作者喝杯茶
+<div>
+  <img width="250" height="200" src="https://github.com/Xposed-Modules-Repo/com.xchat/blob/main/res/drawable/paymentCodeWechat.png"/>
+  <img width="250" height="200" src="https://github.com/Xposed-Modules-Repo/com.xchat/blob/main/res/drawable/paymentCodeAli.png"/>
+</div>
 
