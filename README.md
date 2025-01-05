@@ -20,10 +20,10 @@
 - [x] 8.0.55
 
 ### 食用方法:
-- 下载apk，安装
+- <a href="https://github.com/Xposed-Modules-Repo/com.xchat/releases">点击此处</a>下载最新版本插件
 - lsposed 激活模块，作用域勾选微信
-- 强制重启wechat
-- 长按 ”我的“ -> "设置" 选项 可呼出设置面板，目前较为简陋...🤷🏻‍♀️
+- 强制重启微信即可食用
+- 长按 ”我的“ -> "设置" 选项 可呼出设置面板，目前较为简陋，后续会加广告，维持生计😜
   
 ## 更新计划
 - [x] 防撤回
@@ -44,7 +44,7 @@
 5. 凡以任何方式直接、间接使用APP者，视为自愿接受本声明的约束。
 6. 本APP如无意中侵犯了某个媒体或个人的知识产权，请来信或来电告之，作者将立即删除。
 
-## 请作者喝杯茶
+## 🙏请作者喝杯茶
 <div>
   <img width="250" height="200" src="https://github.com/Xposed-Modules-Repo/com.xchat/blob/main/res/drawable/paymentCodeWechat.png"/>
   <img width="250" height="200" src="https://github.com/Xposed-Modules-Repo/com.xchat/blob/main/res/drawable/paymentCodeAli.png"/>
