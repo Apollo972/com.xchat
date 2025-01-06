@@ -38,7 +38,7 @@
 - [ ] 自动下载原图
         
 ## 常见问题
-#### 1. 第一次打开app，提示"配置异常"或"responseCode:xxx"？
+#### 1. 第一次打开app，提示"配置异常"或"responseCode:xxx"、"responseCode:connection reset" ？
    检查网络是否能正常打开github，网络通畅后杀进程重启。
 #### 2. 打开app后，功能无法使用且无任何提示？
    如果未在模块设置界面取消勾选"插件状态Toast提示"，则说明模块还在加载中，请耐心等待，加载完毕后不论成功或失败，都会有Toast提示。
