@@ -59,7 +59,12 @@
 ## 🙏请作者喝杯茶 
 不想在主页展示捐赠记录的老板有劳备注一下（无备注默认接受主页展示）感谢！
 ![wechat](https://github.com/Xposed-Modules-Repo/com.xchat/blob/main/res/drawable/paymentCodeWechat.png)
-![ali](https://github.com/Xposed-Modules-Repo/com.xchat/blob/main/res/drawable/paymentCodeAli.png)
+![ali](https://github.com/Xposed-Modules-Repo/com.xchat/blob/main/res/drawable/paymentCodeAli.png)  
+</p>
+图片加载不出来的老板试试这里：  
+<a href="https://github.com/Xposed-Modules-Repo/com.xchat/blob/main/res/drawable/paymentCodeWechat.png">微信</a>  
+<a href="https://github.com/Xposed-Modules-Repo/com.xchat/blob/main/res/drawable/paymentCodeAli.png">ali</a>
+</p>
 
 ## 🙏感谢老板赐茶
 因无法向已经捐赠的老板确认是否允许展示，故删除记录，深感抱歉。后续的捐赠默认允许展示。
